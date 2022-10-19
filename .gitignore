@@ -1,0 +1,7 @@
+pass.txt
+/venv
+/.idea
+/inforce_restaurant_api/inforce_restaurant_api/__pycache__
+inforce_restaurant_api/api/__pycache__
+inforce_restaurant_api/__pycache__/
+inforce_restaurant_api/menus
